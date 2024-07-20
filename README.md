@@ -81,6 +81,7 @@ for i in range(10):
 
     	#5)(Opcional) Bucle personalizado: Diseña un problema interesante que involucre un bucle. Puede ser cualquier cosa, desde cálculos matemáticos hasta manipulación de cadenas. Proporciona un escenario y desarrolla un programa en Python que demuestre cómo resolverlo utilizando un bucle.
 
+
 # Este código implementa un generador de contraseñas que sigue un patrón "zigzag".
 # Crea contraseñas alternando entre letras y números, pero con un twist:
 # las letras se seleccionan avanzando desde el inicio del alfabeto,
