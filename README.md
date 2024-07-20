@@ -129,4 +129,8 @@ password_length = 12
 result = zigzag_password(letters, numbers, password_length)
 print("Contraseña generada:", result)
 
+
+
+
+
     
